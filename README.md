@@ -37,3 +37,4 @@ You can verify your installation by running the following command in your termin
 
 ```sh
 lua -v
+```
